@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.byyu",
+    "sha256_cert_fingerprints":
+    ["74:4F:5E:D8:E9:6D:3E:D1:99:A5:50:2C:0F:02:95:A2:29:11:E0:CB:13:62:03:AB:DC:C3:86:58:8C:20:38:B5","EC:5B:96:FF:7C:6E:05:FC:A8:15:93:52:25:58:0D:6A:D3:E8:06:8A:06:4F:CE:B2:5C:6D:72:08:4E:2D:61:9D","ec:5b:96:ff:7c:6e:05:fc:a8:15:93:52:25:58:0d:6a:d3:e8:06:8a:06:4f:ce:b2:5c:6d:72:08:4e:2d:61:9d","56:31:83:b8:0d:81:a9:fd:7e:fd:db:25:9a:18:ef:1e:5a:a9:f3:18:17:bf:3d:6e:00:60:60:03:cb:3c:f2:87"]
+  }
+}]
